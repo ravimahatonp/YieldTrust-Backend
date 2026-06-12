@@ -4,7 +4,7 @@
   "description": "API for AgriTrust Protocol",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node init && node index.js",
     "test": "echo \"ok\""
   },
   "dependencies": {
