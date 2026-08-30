@@ -2,8 +2,6 @@
 node_modules/
 
 # Environment variables
-.env
-.env.*
 !.env.example
 
 # Logs
@@ -24,5 +22,5 @@ build/
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
+config.bat
